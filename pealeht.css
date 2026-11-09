@@ -51,17 +51,17 @@ body {
     margin-left: 10px;
 }
 
-/* 1. Sotsiaalmeedia nupud ringi sees (IG, F, T) */
+
 .header-parem a {
     display: inline-flex;
     align-items: center;
     justify-content: center;
     width: 38px;
     height: 38px;
-    border: 1.5px solid #4a423a; /* Peen ring ümber tähe */
-    border-radius: 50%;          /* Teeb kasti täielikuks ringiks */
+    border: 1.5px solid #4a423a; 
+    border-radius: 50%;          
     color: #4a423a;
-    text-decoration: none;       /* Eemaldab lingi alakriipsu */
+    text-decoration: none;       
     font-size: 14px;
     font-weight: 600;
     margin-left: 10px;
